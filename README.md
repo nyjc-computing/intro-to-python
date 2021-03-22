@@ -2,13 +2,13 @@
 Jupyter Notebook exercises for Python beginners
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nyjc-computing/intro-to-python.git/HEAD)  
-Click “launch binder” above to launch the exercises in Binder, a read-only environment for Jupyter Notebooks
+Click **“launch binder”** above to launch the exercises in Binder, a read-only environment for Jupyter Notebooks
 
 These exercises for Python beginners are part of a guided lesson package for H2 Computing students. The packages were created with a Jupyter Notebook extension, `nbgrader`, which enables submission of student code for manual grading or autograding. This functionality is not available in Binder.
 
 The exercises are provided here, *sans* guidance. Autodidacts may wish to skip the following lessons: 8a, 8b, 8c, 10b
 
-The exercises cover the following topics:
+The following topics are covered:
 
 ### Lessons-Basic
 1. Basic operators and data types
