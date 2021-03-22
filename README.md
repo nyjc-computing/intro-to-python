@@ -8,9 +8,11 @@ These exercises for Python beginners are part of a guided lesson package for H2 
 
 The exercises are provided here, *sans* guidance. Autodidacts may wish to skip the following lessons: 8a, 8b, 8c, 10b
 
+## Lessons
+
 The following topics are covered:
 
-### Lessons-Basic
+### Basic
 1. Basic operators and data types
 2. Data manipulation
 3. Decision-making and branching; advanced formatting
@@ -18,12 +20,16 @@ The following topics are covered:
 5. Functions; File IO
 6. Standard libraries; `while` loops; keyword arguments and default parameters
 
-### Lessons-Advanced
+### Advanced
 7. `dict`; `tuple`; `set`
 8. Pseudocode, flowcharts, decision tables; debugging
 9. Recursion
 10. Advanced functions; program testing; handling errors
 
-### Lessons-OOP (Object-Oriented Programming)
+### Object-Oriented Programming (OOP)
 11. Python Objects and Classes; object instances
 12. Class inheritance, local imports; module planning and design
+
+## Assignments
+
+Each assignment is intended to cover the concepts from the same-numbered lesson, with further extension of the concepts. Assignment 12, designed as a group project to create a chess game, is omitted from this repository.
