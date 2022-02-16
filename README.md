@@ -2,9 +2,9 @@
 Jupyter Notebook exercises for Python beginners
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nyjc-computing/intro-to-python.git/HEAD)  
-Click **“launch binder”** above to launch the exercises in Binder, a read-only environment for Jupyter Notebooks
+Click **“launch binder”** above to launch the exercises in Binder, a read-only environment for Jupyter Notebooks. This means that your progress will be erased when the browser tab is closed. Please download the notebook files you wish to keep: right-click on the file and click "Download".
 
-These exercises for Python beginners are part of a guided lesson package for H2 Computing students. The packages were created with a Jupyter Notebook extension, `nbgrader`, which enables submission of student code for manual grading or autograding. This functionality is not available in Binder.
+These exercises for Python beginners are part of a guided lesson package for H2 Computing students. ~~The packages were created with a Jupyter Notebook extension, `nbgrader`, which enables submission of student code for manual grading or autograding. This functionality is not available in Binder.~~
 
 **[WARNING] This repository is in the process of being updated. So far, only lessons 1-9 have been updated; subsequent lessons may have inconsistencies.**
 
