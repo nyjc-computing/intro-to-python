@@ -6,6 +6,8 @@ Click **“launch binder”** above to launch the exercises in Binder, a read-on
 
 These exercises for Python beginners are part of a guided lesson package for H2 Computing students. The packages were created with a Jupyter Notebook extension, `nbgrader`, which enables submission of student code for manual grading or autograding. This functionality is not available in Binder.
 
+**[WARNING] This repository is in the process of being updated. So far, only lessons 1-9 have been updated; subsequent lessons may have inconsistencies.**
+
 The exercises are provided here, *sans* guidance. Autodidacts may wish to skip the following lessons: 8a, 8b, 8c, 10b
 
 ## Lessons
