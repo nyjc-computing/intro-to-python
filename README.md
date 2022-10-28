@@ -20,7 +20,7 @@ The following topics are covered:
 3. Decision-making and branching; advanced formatting
 4. Lists; Iteration and looping
 5. Functions; File IO
-6. Standard libraries; `while` loops; keyword arguments and default parameters
+6. Standard libraries; `while` loops; files and directories; keyword arguments and default parameters
 
 ### Advanced
 7. `dict`; `tuple`; `set`
