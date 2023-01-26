@@ -4,11 +4,9 @@ Jupyter Notebook exercises for Python beginners
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nyjc-computing/intro-to-python.git/HEAD)  
 Click **“launch binder”** above to launch the exercises in Binder, a read-only environment for Jupyter Notebooks. This means that your progress will be erased when the browser tab is closed. Please download the notebook files you wish to keep: right-click on the file and click "Download".
 
-These exercises for Python beginners are part of a guided lesson package for H2 Computing students. ~~The packages were created with a Jupyter Notebook extension, `nbgrader`, which enables submission of student code for manual grading or autograding. This functionality is not available in Binder.~~
+These exercises for Python beginners are part of a guided lesson package for H2 Computing students.
 
-**[WARNING] This repository is in the process of being updated. So far, only lessons 1-9 have been updated; subsequent lessons may have inconsistencies.**
-
-The exercises are provided here, *sans* guidance. Autodidacts may wish to skip the following lessons: 8a, 8b, 8c, 10b
+The exercises are provided here, *sans* guidance.
 
 ## Lessons
 
@@ -24,14 +22,5 @@ The following topics are covered:
 
 ### Advanced
 7. `dict`; `tuple`; `set`
-8. Pseudocode, flowcharts, decision tables; debugging
-9. Recursion
-10. Advanced functions; program testing; handling errors
-
-### Object-Oriented Programming (OOP)
-11. Python Objects and Classes; object instances
-12. Class inheritance, local imports; module planning and design
-
-## Assignments
-
-Each assignment is intended to cover the concepts from the same-numbered lesson, with further extension of the concepts. Assignment 12, designed as a group project to create a chess game, is omitted from this repository.
+8. Recursion
+9. Advanced functions; program testing; handling errors
