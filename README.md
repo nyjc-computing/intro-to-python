@@ -24,3 +24,10 @@ The following topics are covered:
 7. `dict`; `tuple`; `set`
 8. Recursion
 9. Advanced functions; program testing; handling errors
+
+### Algorithms
+1. Accumulator
+2. Ratchet
+3. Search (Linear and Binary)
+4. Tokenisation
+5. Greedy
