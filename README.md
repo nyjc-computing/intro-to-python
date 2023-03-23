@@ -31,3 +31,4 @@ The following topics are covered:
 3. Search (Linear and Binary)
 4. Tokenisation
 5. Greedy
+6. Hash Table
