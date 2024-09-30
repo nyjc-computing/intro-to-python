@@ -1,5 +1,5 @@
-# Intro to Python
-Jupyter Notebook exercises for Python beginners
+# Programming in Python
+Jupyter Notebook exercises for Python programming
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nyjc-computing/programming-in-python.git/HEAD)  
 Click **“launch binder”** above to launch the exercises in Binder, a read-only environment for Jupyter Notebooks. This means that your progress will be erased when the browser tab is closed. Please download the notebook files you wish to keep: right-click on the file and click "Download".
