@@ -34,3 +34,7 @@ The following topics are covered:
 4. Tokenisation
 5. Greedy
 6. Hash Table
+
+### Data Analysis
+1. Reading CSV files with the `csv` module
+2. Reading JSON files with the `json` module
